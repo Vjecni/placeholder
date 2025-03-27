@@ -1,17 +1,3 @@
-Oh, I gotcha! You want the **entire README file** formatted in **Markdown properly** so it doesn't break and looks clean on GitHub. I’ll ensure everything is structured properly for Markdown.
-
-
-
-Here’s the **correct version of the `README.md` file**:
-
-
-
----
-
-
-
-```markdown
-
 # ⚡ OblivionX - Next-Gen Threat Intelligence Dashboard  
 
 
@@ -424,29 +410,12 @@ MIT License - Free to use, modify, and contribute!
 
 ## ⭐ Like This Project?  
 
-
-
 Give it a star ⭐ on GitHub and spread the word!  
 
 
 
 🔥 **OblivionX - Stay Ahead of the Threats.** 🔥
 
-```
-
-
-
----
-
-
-
-### Key Changes:
-
-1. **Markdown formatting fixed** for proper display.
-
-2. **Code blocks** are properly wrapped in triple backticks ``` so the code appears correctly.
-
-3. **Bullet points** and **tables** are formatted as expected.
 
 
 
